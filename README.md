@@ -5,6 +5,8 @@ A minimal, production-grade Full Stack application featuring:
 - **Backend**: Asynchronous **FastAPI** (Python 3.13+) with **SQLModel**, Pydantic v2, and **PostgreSQL**.
 - **Frontend**: Minimalist **React 19** with **TypeScript**, **MUI 7**, Redux Toolkit, and Vite.
 
+**Live Backend API Docs**: [https://savannahstack-io.onrender.com](https://savannahstack-io.onrender.com)
+
 ---
 
 ## Architecture Overview
