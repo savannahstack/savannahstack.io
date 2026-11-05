@@ -20,6 +20,9 @@
     "form.button.back": "← Back",
     "reset_database_button": "Reset Database (Generate New Mock Data)",
 
+    "student": "Students",
+    "add": "Add",
+    "settings": "Settings",
     "student_table": "Students",
     "teacher_table": "Teachers",
     "assignment_table": "Assignments",

@@ -20,6 +20,10 @@
     "form.button.back": "← वापस",
     "reset_database_button": "डेटाबेस रीसेट करें (नए मॉक डेटा उत्पन्न करें)",
 
+    "student": "छात्र",
+    "add": "जोड़ें",
+    "settings": "सेटिंग्स",
+    "no_assignments": "कोई असाइनमेंट नहीं",
     "student_table": "छात्र",
     "teacher_table": "शिक्षक",
     "assignment_table": "असाइनमेंट",

@@ -182,9 +182,9 @@ class DBModel(BaseUtils, QueryDB):
         except Exception as ex:
             cls.error_400(details=ex)
 
-        if not res:
-            cls.error_400(details="not found")
         if limit == 1:
+            if not res:
+                cls.error_400(details="not found")
             return res[0]
         return res
 

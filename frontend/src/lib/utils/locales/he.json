@@ -20,6 +20,10 @@
     "form.button.back": "← חזור",
     "reset_database_button": "אפס מסד נתונים (צור נתוני דמה חדשים)",
 
+    "student": "תלמידים",
+    "add": "הוסף",
+    "settings": "הגדרות",
+    "no_assignments": "אין מטלות",
     "student_table": "תלמידים",
     "teacher_table": "מורים",
     "assignment_table": "מטלות",

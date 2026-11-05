@@ -12,7 +12,7 @@ const config: {
     i18n: string;
     rtlLayout: boolean;
 } = {
-    apiUrl: import.meta.env.VITE_API_URL || 'http://localhost:5001',
+    apiUrl: import.meta.env.VITE_API_URL,
     basename: '',
     defaultPath: '/student',
     fontFamily: `'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif`,

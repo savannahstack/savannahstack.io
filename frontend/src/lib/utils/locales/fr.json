@@ -20,6 +20,10 @@
     "form.button.back": "← Retour",
     "reset_database_button": "Réinitialiser la Base de Données (Générer de Nouvelles Données Mock)",
 
+    "student": "Étudiants",
+    "add": "Ajouter",
+    "settings": "Paramètres",
+    "no_assignments": "Aucun devoir",
     "student_table": "Étudiants",
     "teacher_table": "Professeurs",
     "assignment_table": "Devoirs",
